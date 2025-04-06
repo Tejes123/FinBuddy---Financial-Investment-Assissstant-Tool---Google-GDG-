@@ -1,9 +1,8 @@
 # Google GDG solutions Challemge - 2025
-### Team Name: Chiti d robo
-
+# 💰 FinBudd - A Financial Investment Advisor and Planner
 ---
 
-# 💰 FinBudd - A Financial Investment Advisor and Planner
+### Team Name: Chiti d robo
 
 FinBudd is an intelligent financial advisor that helps users plan and optimize investments using Generative AI. It supports analyzing financial documents (PDFs, TXTs, CSVs), extracting meaningful insights, and answering user queries using natural language.
 
@@ -87,4 +86,71 @@ python server.py
 #### 1️⃣ Install Node.js from the official website  
 👉 [Download Node.js](https://nodejs.org/en)
 
-#### 2️⃣ Navigate to th
+#### 2️⃣ Navigate to the frontend directory
+
+```bash
+cd ../frontend
+```
+
+#### 3️⃣ Initialize Node package (if not already done)
+
+```bash
+npm init -y
+```
+
+#### 4️⃣ Install frontend dependencies
+
+```bash
+npm install
+```
+
+#### 5️⃣ Start the frontend development server
+
+```bash
+npm run dev
+```
+
+The app will typically run at: [http://localhost:5173/](http://localhost:5173/)
+
+---
+
+## 🧠 Features
+
+- Chat with your financial documents
+- Supports PDFs, TXTs, and CSVs
+- Secure and private local vector storage
+- Fast semantic search and contextual understanding
+- AI-powered answers using Google Gemini
+
+---
+
+## Team Members 🤝
+[Sujit T K](https://github.com/sujit-t-k)
+[Tejeswar](https://github.com/Tejes123)
+[Arvindh]()
+[Sriram]()
+
+
+## 📌 Notes
+
+- Ensure your `.env` file is **not committed** to version control.
+- FAISS may require some system-level dependencies depending on your platform.
+- Test with sample financial documents to evaluate performance.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📜 License
+
+MIT License. Feel free to use and modify.
+
+---
+
+Made with ❤️ by Tejeswar
+
+
