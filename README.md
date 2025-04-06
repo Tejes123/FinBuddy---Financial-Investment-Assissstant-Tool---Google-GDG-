@@ -1,6 +1,9 @@
 # Google GDG solutions Challemge - 2025
+### Team Name: Chiti d robo
+
+---
+
 # 💰 FinBudd - A Financial Investment Advisor and Planner
-## Team Name: Chiti d robo
 
 FinBudd is an intelligent financial advisor that helps users plan and optimize investments using Generative AI. It supports analyzing financial documents (PDFs, TXTs, CSVs), extracting meaningful insights, and answering user queries using natural language.
 
