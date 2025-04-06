@@ -140,6 +140,11 @@ The app will typically run at: [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
+## Screenshots of Prototype
+### Home Page
+![Home Page](images/home.jpg)
+
+
 ## 💡 Usage
 
 1. Open the app in your browser.
