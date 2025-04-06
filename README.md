@@ -1,5 +1,5 @@
 # 💡 Google GDG Solutions Challenge - 2025  
-## 💰 FinBudd – A Financial Investment Advisor and Planner
+## 💰 FinBuddy – A Financial Investment Advisor and Planner
 
 ### 👥 Team Name: Chiti d robo
 
