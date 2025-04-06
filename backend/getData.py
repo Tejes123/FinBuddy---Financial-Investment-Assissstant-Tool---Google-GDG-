@@ -1,3 +1,7 @@
+"""
+To query documents from the Vector DB Instance
+"""
+
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
