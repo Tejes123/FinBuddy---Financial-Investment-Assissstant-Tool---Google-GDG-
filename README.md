@@ -143,12 +143,11 @@ The app will typically run at: [http://localhost:5173/](http://localhost:5173/)
 ## 💡 Usage
 
 1. Open the app in your browser.
-2. Upload a financial document (PDF, TXT, or CSV).
-3. Ask questions like:
+2. Ask questions like:
    - "What is the total value of my investments?"
    - "Can you suggest safer alternatives to mutual funds?"
    - "What are the top performing assets?"
-4. View AI-generated insights and recommendations.
+3. View AI-generated insights and recommendations.
 
 ---
 
