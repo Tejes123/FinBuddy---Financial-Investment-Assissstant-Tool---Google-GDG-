@@ -140,9 +140,24 @@ The app will typically run at: [http://localhost:5173/](http://localhost:5173/)
 
 ---
 
+
+
 ## Screenshots of Prototype
 ### Home Page
 ![Home Page](images/home.jpg)
+
+### Financial chatbot assisstant
+![Financial Assisstant](images/chat.jpg)
+
+### Investment Planner
+![Investment Planner](images/investment1.jpg)
+
+### Personalized Investment Decisions
+![Investment Advisor](images/invest2.jpg)
+
+
+---
+
 
 
 ## 💡 Usage
